@@ -9,6 +9,3 @@ Using Python to prepare data for analysis, perform simple statistical analysis, 
 
 Data Analysis libraries: Pandas, Numpy and Scipy libraries to work with a sample dataset.  Use pandas, an open-source library, to load, manipulate, analyze, and visualize cool datasets.  Use scikit-learn's machine learning algorithms to build smart models and make cool predictions. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=glrwtrSz-W8
-" target="_blank"><img src="http://img.youtube.com/vi/glrwtrSz-W8/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
