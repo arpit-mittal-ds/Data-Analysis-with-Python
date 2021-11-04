@@ -9,3 +9,25 @@ Using Python to prepare data for analysis, perform simple statistical analysis, 
 
 Data Analysis libraries: Pandas, Numpy and Scipy libraries to work with a sample dataset.  Use pandas, an open-source library, to load, manipulate, analyze, and visualize cool datasets.  Use scikit-learn's machine learning algorithms to build smart models and make cool predictions. 
 
+Python Indentation
+Indentation refers to the spaces at the beginning of a code line.
+
+Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
+
+Python uses indentation to indicate a block of code.
+
+Example
+if 5 > 2:
+  print("Five is greater than two!")
+  
+  
+l = ["apple", "banana", "cherry"]	#list	
+t = ("apple", "banana", "cherry")	#tuple	
+x = range(6)	#range	
+x = {"name" : "John", "age" : 36}	#dict	
+x = {"apple", "banana", "cherry"}	#set	
+x = frozenset({"apple", "banana", "cherry"})	#frozenset	
+x = True	#bool	
+x = b"Hello"	bytes	
+x = bytearray(5)	bytearray	
+x = memoryview(bytes(5))
